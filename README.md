@@ -1,1 +1,2 @@
 # Uni-VerseProduct
+Developed a 2-year product roadmap, execution strategy, and investment criteria for ‘Uni-Verse,’ a platform providing nationwide university students with seamless access to campus events while enhancing visibility for university clubs. Implemented a subscription-based monetization model for clubs, offering advanced analytics to track event attendance and optimize audience engagement through data-driven marketing strategies. Offered free access for students, fostering greater participation and community engagement across universities.
